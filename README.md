@@ -6,6 +6,6 @@ The second uses a neural network regression models (CNN and MLP) to predict Stoc
 
 Next steps is to attempt a Monte Carlo Tree Search (MCTS) with a blend of simple rudimentary algorithm, the CNN, and the MLP to see if combining predictions from three sources improves performance.
 
-Helpful resource to look at it you want to attempt something similar:
+Helpful resources to look at it you want to attempt something similar:
 https://www.ai.rug.nl/~mwiering/GROUP/ARTICLES/ICPRAM_CHESS_DNN_2018.pdf
 https://www.cs.utexas.edu/~arman/PlayingChessWithLimitedLookAhead_preprint.pdf
